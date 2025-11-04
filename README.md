@@ -1,3 +1,6 @@
+### H2 DATABASE
+<img width="960" height="514" alt="Screenshot from 2025-11-04 20-33-08" src="https://github.com/user-attachments/assets/e7230616-165a-4296-95bf-67ad23a70d2e" />
+---
 ### 1️⃣ Racine de l’API
 ```bash
 curl -X GET 'http://localhost:8082/api'
