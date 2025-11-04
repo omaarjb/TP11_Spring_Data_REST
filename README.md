@@ -1,9 +1,8 @@
 ### 1️⃣ Racine de l’API
 ```bash
 curl -X GET 'http://localhost:8082/api'
-<img width="1022" height="412" alt="Screenshot from 2025-11-04 20-22-22" src="https://github.com/user-attachments/assets/8c15c6ce-265e-4671-b3ee-6317d1c4e041" />
-
 ```
+<img width="1022" height="412" alt="Screenshot from 2025-11-04 20-22-22" src="https://github.com/user-attachments/assets/e32a800d-29af-4927-9b42-5f641183f9d1" />
 
 ### 2️⃣ Tous les comptes
 ```bash
